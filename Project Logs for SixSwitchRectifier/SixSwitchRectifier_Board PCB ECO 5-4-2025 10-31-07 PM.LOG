@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetCN_R1_4 Pin=CN_R1-4
+Removed Pin From Net: NetName=NetCN_S1_4 Pin=CN_S1-4
+Removed Pin From Net: NetName=NetCN_T1_4 Pin=CN_T1-4
+Removed Pin From Net: NetName=NetR94_1 Pin=XF1-2
+Removed Pin From Net: NetName=NetU2_5 Pin=XF2-1
+Removed Pin From Net: NetName=NetR97_1 Pin=XF3-2
+Removed Member From Class: ClassName=U_MainCircuit Member=XF1
+Removed Member From Class: ClassName=U_MainCircuit Member=XF2
+Removed Member From Class: ClassName=U_MainCircuit Member=XF3
+Added Pin To Net: NetName=NetR94_1 Pin=U1-5
+Added Pin To Net: NetName=NetR97_1 Pin=U3-5
+Added Pin To Net: NetName=NetCN_R1_4 Pin=XF1-2
+Added Pin To Net: NetName=NetCN_S1_4 Pin=XF2-2
+Added Pin To Net: NetName=NetCN_T1_4 Pin=XF3-2
+Change Net Name : Old Net Name=NetCN_R1_4 New Net Name=NetR53_1
+Change Net Name : Old Net Name=NetCN_S1_4 New Net Name=NetR66_1
+Change Net Name : Old Net Name=NetCN_T1_4 New Net Name=NetR79_1
+Added Pin To Net: NetName=NetCN_R1_4 Pin=CN_R1-4
+Added Pin To Net: NetName=NetCN_R1_4 Pin=XF1-1
+Added Net: Name=NetCN_R1_4
+Added Pin To Net: NetName=NetCN_S1_4 Pin=CN_S1-4
+Added Pin To Net: NetName=NetCN_S1_4 Pin=XF2-1
+Added Net: Name=NetCN_S1_4
+Added Pin To Net: NetName=NetCN_T1_4 Pin=CN_T1-4
+Added Pin To Net: NetName=NetCN_T1_4 Pin=XF3-1
+Added Net: Name=NetCN_T1_4
+Added Member To Class: ClassName=U_Controller Member=Component IC14 LTC1446CS8#PBF
+Added Member To Class: ClassName=CoverSheet Member=Component XF1 65800001009
+Added Member To Class: ClassName=CoverSheet Member=Component XF2 65800001009
+Added Member To Class: ClassName=CoverSheet Member=Component XF3 65800001009

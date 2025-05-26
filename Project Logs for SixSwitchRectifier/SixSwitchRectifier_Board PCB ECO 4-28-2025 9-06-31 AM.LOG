@@ -1,0 +1,7 @@
+Added Component: Designator=TP_VN(5001)
+Added Component: Designator=TP_VP(5000)
+Added Pin To Net: NetName=NetC41_2 Pin=TP_VN-1
+Added Pin To Net: NetName=NetCN_P1_2 Pin=TP_VP-1
+Added Member To Class: ClassName=CoverSheet Member=Component CN_N1 CN
+Added Member To Class: ClassName=CoverSheet Member=Component TP_VN
+Added Member To Class: ClassName=CoverSheet Member=Component TP_VP

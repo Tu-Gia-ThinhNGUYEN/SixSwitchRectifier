@@ -1,0 +1,10 @@
+Replace Part R64 R5W in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with R5W from VioletofSun.SchLib
+Replace Part R67 R5W in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with R5W from VioletofSun.SchLib
+Replace Part R69 R in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with R from ViennaRectifier.SchLib
+Replace Part R80 R in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with R from ViennaRectifier.SchLib
+Replace Part TP_Idc 5001 in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with 5001 from TestPointKeystone.SchLib
+Replace Part TP_Vdc 5000 in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with 5000 from TestPointKeystone.SchLib
+Replace Part U7 LV 25-P in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with LV 25-P from ViennaRectifier.SchLib
+Replace Part U8 LA 100-TP in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with LA 100-TP from ViennaRectifier.SchLib
+Replace Part Z7 BZG05C3V3-HM3-08 in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with BZG05C3V3-HM3-08 from SamacSys.SchLib
+Replace Part Z8 BZG05C3V3-HM3-08 in D:\Designing\SixSwitchRectifier\OutputVoltageSensingSketch.SchDoc with BZG05C3V3-HM3-08 from SamacSys.SchLib

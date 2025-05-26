@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=TP_SW1 NewDesignator=TP_G1
+Change Component Designator: OldDesignator=TP_SW2 NewDesignator=TP_S1
+Change Component Designator: OldDesignator=TP_SW3 NewDesignator=TP_G2
+Change Component Designator: OldDesignator=TP_SW4 NewDesignator=TP_S2
+Change Component Designator: OldDesignator=TP_SW5 NewDesignator=TP_G3
+Change Component Designator: OldDesignator=TP_SW6 NewDesignator=TP_S3
+Change Component Designator: OldDesignator=TP_SW7 NewDesignator=TP_G4
+Change Component Designator: OldDesignator=TP_SW8 NewDesignator=TP_S4
+Change Component Designator: OldDesignator=TP_SW9 NewDesignator=TP_G5
+Change Component Designator: OldDesignator=TP_SW10 NewDesignator=TP_S5
+Change Component Designator: OldDesignator=TP_SW11 NewDesignator=TP_G6
+Change Component Designator: OldDesignator=TP_SW12 NewDesignator=TP_S6

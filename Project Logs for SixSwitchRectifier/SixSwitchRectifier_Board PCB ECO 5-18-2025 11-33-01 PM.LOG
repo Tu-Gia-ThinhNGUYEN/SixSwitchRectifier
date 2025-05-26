@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GPIO-18 Pin=IC14-1
+Removed Pin From Net: NetName=GPIO-16 Pin=IC14-2
+Removed Pin From Net: NetName=GPIO-19 Pin=IC14-3
+Removed Pin From Net: NetName=NetIC14_4 Pin=IC14-4
+Removed Pin From Net: NetName=NetIC14_5 Pin=IC14-5
+Removed Pin From Net: NetName=GND Pin=IC14-6
+Removed Pin From Net: NetName=+5 Pin=IC14-7
+Removed Pin From Net: NetName=NetIC14_8 Pin=IC14-8
+Removed Pin From Net: NetName=GPIO-18 Pin=IC15-1
+Removed Pin From Net: NetName=NetIC14_4 Pin=IC15-2
+Removed Pin From Net: NetName=GPIO-19 Pin=IC15-3
+Removed Pin From Net: NetName=NetIC15_5 Pin=IC15-5
+Removed Pin From Net: NetName=GND Pin=IC15-6
+Removed Pin From Net: NetName=+5 Pin=IC15-7
+Removed Pin From Net: NetName=NetIC15_8 Pin=IC15-8
+Added Component: Designator=IC14(DIP794W53P254L1016H394Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTC1446CN8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltc1446cn8pbf/linear-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00091394.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.935mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTC1446CN8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LTC1446CN8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC1446CN8%23PBF"; VariantName = "[No Variations]"
+Added Component: Designator=IC15(DIP794W53P254L1016H394Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTC1446CN8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltc1446cn8pbf/linear-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00091394.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.935mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTC1446CN8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LTC1446CN8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC1446CN8%23PBF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO-18 Pin=IC14-1
+Added Pin To Net: NetName=GPIO-16 Pin=IC14-2
+Added Pin To Net: NetName=GPIO-19 Pin=IC14-3
+Added Pin To Net: NetName=NetIC14_4 Pin=IC14-4
+Added Pin To Net: NetName=NetIC14_5 Pin=IC14-5
+Added Pin To Net: NetName=GND Pin=IC14-6
+Added Pin To Net: NetName=+5 Pin=IC14-7
+Added Pin To Net: NetName=NetIC14_8 Pin=IC14-8
+Added Pin To Net: NetName=GPIO-18 Pin=IC15-1
+Added Pin To Net: NetName=NetIC14_4 Pin=IC15-2
+Added Pin To Net: NetName=GPIO-19 Pin=IC15-3
+Added Pin To Net: NetName=NetIC15_5 Pin=IC15-5
+Added Pin To Net: NetName=GND Pin=IC15-6
+Added Pin To Net: NetName=+5 Pin=IC15-7
+Added Pin To Net: NetName=NetIC15_8 Pin=IC15-8

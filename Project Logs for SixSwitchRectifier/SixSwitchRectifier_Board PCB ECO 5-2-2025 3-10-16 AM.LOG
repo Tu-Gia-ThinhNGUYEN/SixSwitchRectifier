@@ -1,0 +1,197 @@
+Change Component Comment : Designator=R2 Old Comment=0 New Comment=1k
+Change Component Comment : Designator=R6 Old Comment=0 New Comment=1k
+Change Component Comment : Designator=R10 Old Comment=0 New Comment=1k
+Change Component Comment : Designator=R99 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R100 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R32 Old Comment=33 New Comment=1k
+Change Component Comment : Designator=R40 Old Comment=33 New Comment=1k
+Change Component Comment : Designator=R45 Old Comment=33 New Comment=1k
+Change Component Comment : Designator=R56 Old Comment=33 New Comment=1k
+Change Component Comment : Designator=R70 Old Comment=33 New Comment=1k
+Change Component Comment : Designator=R82 Old Comment=33 New Comment=1k
+Change Component Comment : Designator=R19 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R21 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R31 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R34 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R44 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R47 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R55 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R58 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R68 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R72 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R81 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R84 Old Comment=68 New Comment=1k
+Change Component Comment : Designator=R69 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R80 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R16 Old Comment=330k New Comment=1k
+Change Component Comment : Designator=R27 Old Comment=330k New Comment=1k
+Change Component Comment : Designator=R41 Old Comment=330k New Comment=1k
+Change Component Comment : Designator=R52 Old Comment=330k New Comment=1k
+Change Component Comment : Designator=R63 Old Comment=330k New Comment=1k
+Change Component Comment : Designator=R77 Old Comment=330k New Comment=1k
+Change Component Comment : Designator=R86 Old Comment=470 New Comment=1k
+Change Component Comment : Designator=R87 Old Comment=470 New Comment=1k
+Change Component Comment : Designator=R4 Old Comment=R5W - 15k New Comment=R5W - 0,47
+Change Component Comment : Designator=R7 Old Comment=R5W - 15k New Comment=R5W - 0,47
+Change Component Comment : Designator=R15 Old Comment=R5W - 15k New Comment=R5W - 0,47
+Change Component Comment : Designator=R18 Old Comment=R5W - 15k New Comment=R5W - 0,47
+Change Component Comment : Designator=R26 Old Comment=R5W - 15k New Comment=R5W - 0,47
+Change Component Comment : Designator=R29 Old Comment=R5W - 15k New Comment=R5W - 0,47
+Change Component Comment : Designator=R64 Old Comment=R5W - 15k New Comment=R5W - 0,47
+Change Component Comment : Designator=R67 Old Comment=R5W - 15k New Comment=R5W - 0,47
+Change Component Library : Designator=C19 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C21 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C22 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C24 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C26 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C27 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C28 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C32 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C33 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C36 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=IC15 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=IC16 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=J1 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=J2 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=PS3 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R88 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R89 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R90 Old Library=* New Library=SamacSys.SchLib
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAPC2012X145N"; UniqueID = "\ACILFEEM\OURYTTKO" ("\ACILFEEM\OURYTTKO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga4j1x7r1e335k125ac/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA4J1X7R1E335K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA4J1X7R1E335K125AC?qs=NRhsANhppD9izo%2FI14TTIw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPC2012X145N"; UniqueID = "\ACILFEEM\RWTFFJFN" ("\ACILFEEM\RWTFFJFN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga4j1x7r1e335k125ac/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA4J1X7R1E335K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA4J1X7R1E335K125AC?qs=NRhsANhppD9izo%2FI14TTIw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAPC2012X145N"; UniqueID = "\ACILFEEM\ZSCBDOFJ" ("\ACILFEEM\ZSCBDOFJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga4j1x7r1e335k125ac/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA4J1X7R1E335K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA4J1X7R1E335K125AC?qs=NRhsANhppD9izo%2FI14TTIw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAPC2012X145N"; UniqueID = "\ACILFEEM\VSLBSPSF" ("\ACILFEEM\VSLBSPSF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga4j1x7r1e335k125ac/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA4J1X7R1E335K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA4J1X7R1E335K125AC?qs=NRhsANhppD9izo%2FI14TTIw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAPC2012X145N"; UniqueID = "\ACILFEEM\VOIDOBEE" ("\ACILFEEM\VOIDOBEE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga4j1x7r1e335k125ac/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA4J1X7R1E335K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA4J1X7R1E335K125AC?qs=NRhsANhppD9izo%2FI14TTIw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAPC2012X145N"; UniqueID = "\ACILFEEM\GGIQDWVJ" ("\ACILFEEM\GGIQDWVJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga4j1x7r1e335k125ac/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA4J1X7R1E335K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA4J1X7R1E335K125AC?qs=NRhsANhppD9izo%2FI14TTIw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "CAPC2012X145N"; UniqueID = "\ACILFEEM\HSJJGYGY" ("\ACILFEEM\HSJJGYGY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga4j1x7r1e335k125ac/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA4J1X7R1E335K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA4J1X7R1E335K125AC?qs=NRhsANhppD9izo%2FI14TTIw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "CAPC2012X145N"; UniqueID = "\ACILFEEM\LLERUEKL" ("\ACILFEEM\LLERUEKL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga4j1x7r1e335k125ac/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA4J1X7R1E335K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA4J1X7R1E335K125AC?qs=NRhsANhppD9izo%2FI14TTIw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "CAPC2012X145N"; UniqueID = "\ACILFEEM\ABLMPVZD" ("\ACILFEEM\ABLMPVZD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga4j1x7r1e335k125ac/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA4J1X7R1E335K125AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA4J1X7R1E335K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA4J1X7R1E335K125AC?qs=NRhsANhppD9izo%2FI14TTIw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R88" ("R88"); Footprint = "RESC6434X90N"; UniqueID = "\VTQINTGE\GLTVZNAN" ("\VTQINTGE\GLTVZNAN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRA2512-FZ-R020ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cra2512-fz-r020elf/bourns?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/CRA2512-FZ-R020ELF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRA2512-FZ-R020ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-CRA2512FZ-R20ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CRA2512-FZ-R020ELF?qs=WqWCsLCZBkqBWIN8p659hA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R89" ("R89"); Footprint = "RESC6434X90N"; UniqueID = "\VTQINTGE\GFFXCAGL" ("\VTQINTGE\GFFXCAGL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRA2512-FZ-R020ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cra2512-fz-r020elf/bourns?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/CRA2512-FZ-R020ELF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRA2512-FZ-R020ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-CRA2512FZ-R20ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CRA2512-FZ-R020ELF?qs=WqWCsLCZBkqBWIN8p659hA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R90" ("R90"); Footprint = "RESC6434X90N"; UniqueID = "\VTQINTGE\JICCJBOB" ("\VTQINTGE\JICCJBOB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRA2512-FZ-R020ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cra2512-fz-r020elf/bourns?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/CRA2512-FZ-R020ELF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRA2512-FZ-R020ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-CRA2512FZ-R20ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CRA2512-FZ-R020ELF?qs=WqWCsLCZBkqBWIN8p659hA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(C247-050-2VE)
+Added Component: Designator=Q2(C247-050-2VE)
+Added Component: Designator=Q3(C247-050-2VE)
+Added Pin To Net: NetName=NetC41_1 Pin=Q1-1
+Added Pin To Net: NetName=NetL10_2 Pin=Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q1-5
+Add Pin To Net: Unknown Pin: Pin Q1-6
+Add Pin To Net: Unknown Pin: Pin Q1-7
+Add Pin To Net: Unknown Pin: Pin Q1-8
+Added Pin To Net: NetName=NetC41_1 Pin=Q2-1
+Added Pin To Net: NetName=NetL11_2 Pin=Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Add Pin To Net: Unknown Pin: Pin Q2-5
+Add Pin To Net: Unknown Pin: Pin Q2-6
+Add Pin To Net: Unknown Pin: Pin Q2-7
+Add Pin To Net: Unknown Pin: Pin Q2-8
+Added Pin To Net: NetName=NetC41_1 Pin=Q3-1
+Added Pin To Net: NetName=NetL12_2 Pin=Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q3-4
+Add Pin To Net: Unknown Pin: Pin Q3-5
+Add Pin To Net: Unknown Pin: Pin Q3-6
+Add Pin To Net: Unknown Pin: Pin Q3-7
+Add Pin To Net: Unknown Pin: Pin Q3-8
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q1 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q2 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q3 SiC MOS

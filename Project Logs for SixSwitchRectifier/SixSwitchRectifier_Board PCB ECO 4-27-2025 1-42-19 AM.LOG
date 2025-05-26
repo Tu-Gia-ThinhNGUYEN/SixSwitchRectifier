@@ -1,0 +1,70 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Change Component Designator: OldDesignator=J2 NewDesignator=J4
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J4 NewDesignator=J6
+Change Component Designator: OldDesignator=J5 NewDesignator=J7
+Change Component Designator: OldDesignator=J6 NewDesignator=J8
+Added Component: Designator=J1(SHDR2W66P0X254_1X2_508X572X1041P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "640456-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/640456-2/te-connectivity?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F640456%7FW3%7Fpdf%7FEnglish%7FENG_CD_640456_W3.pdf%7F640456-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.414mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "640456-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-6404562"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/640456-2?qs=%2F35zJ5USjomRu3EJQJgZCQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(SHDR2W66P0X254_1X2_508X572X1041P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "640456-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/640456-2/te-connectivity?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F640456%7FW3%7Fpdf%7FEnglish%7FENG_CD_640456_W3.pdf%7F640456-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.414mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "640456-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-6404562"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/640456-2?qs=%2F35zJ5USjomRu3EJQJgZCQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+48V_In Pin=J1-1
+Added Pin To Net: NetName=0V_In Pin=J1-2
+Added Pin To Net: NetName=+48V_In Pin=J2-1
+Added Pin To Net: NetName=0V_In Pin=J2-2
+Change Net Name : Old Net Name=NetJ1_15 New Net Name=NetJ3_15
+Change Net Name : Old Net Name=NetJ1_17 New Net Name=NetJ3_17
+Change Net Name : Old Net Name=NetJ1_19 New Net Name=NetJ3_19
+Change Net Name : Old Net Name=NetJ1_21 New Net Name=NetJ3_21
+Change Net Name : Old Net Name=NetJ1_23 New Net Name=NetJ3_23
+Change Net Name : Old Net Name=NetJ1_24 New Net Name=NetJ3_24
+Change Net Name : Old Net Name=NetJ1_25 New Net Name=NetJ3_25
+Change Net Name : Old Net Name=NetJ1_26 New Net Name=NetJ3_26
+Change Net Name : Old Net Name=NetJ1_28 New Net Name=NetJ3_28
+Change Net Name : Old Net Name=NetJ1_29 New Net Name=NetJ3_29
+Change Net Name : Old Net Name=NetJ1_30 New Net Name=NetJ3_30
+Change Net Name : Old Net Name=NetJ1_31 New Net Name=NetJ3_31
+Change Net Name : Old Net Name=NetJ1_32 New Net Name=NetJ3_32
+Change Net Name : Old Net Name=NetJ1_33 New Net Name=NetJ3_33
+Change Net Name : Old Net Name=NetJ1_34 New Net Name=NetJ3_34
+Change Net Name : Old Net Name=NetJ1_35 New Net Name=NetJ3_35
+Change Net Name : Old Net Name=NetJ1_36 New Net Name=NetJ3_36
+Change Net Name : Old Net Name=NetJ1_40 New Net Name=NetJ3_40
+Change Net Name : Old Net Name=NetJ1_41 New Net Name=NetJ3_41
+Change Net Name : Old Net Name=NetJ1_42 New Net Name=NetJ3_42
+Change Net Name : Old Net Name=NetJ1_43 New Net Name=NetJ3_43
+Change Net Name : Old Net Name=NetJ1_65 New Net Name=NetJ3_65
+Change Net Name : Old Net Name=NetJ1_67 New Net Name=NetJ3_67
+Change Net Name : Old Net Name=NetJ1_69 New Net Name=NetJ3_69
+Change Net Name : Old Net Name=NetJ1_71 New Net Name=NetJ3_71
+Change Net Name : Old Net Name=NetJ1_73 New Net Name=NetJ3_73
+Change Net Name : Old Net Name=NetJ1_74 New Net Name=NetJ3_74
+Change Net Name : Old Net Name=NetJ1_75 New Net Name=NetJ3_75
+Change Net Name : Old Net Name=NetJ1_76 New Net Name=NetJ3_76
+Change Net Name : Old Net Name=NetJ1_78 New Net Name=NetJ3_78
+Change Net Name : Old Net Name=NetJ1_79 New Net Name=NetJ3_79
+Change Net Name : Old Net Name=NetJ1_80 New Net Name=NetJ3_80
+Change Net Name : Old Net Name=NetJ1_81 New Net Name=NetJ3_81
+Change Net Name : Old Net Name=NetJ1_83 New Net Name=NetJ3_83
+Change Net Name : Old Net Name=NetJ1_84 New Net Name=NetJ3_84
+Change Net Name : Old Net Name=NetJ1_85 New Net Name=NetJ3_85
+Change Net Name : Old Net Name=NetJ1_86 New Net Name=NetJ3_86
+Change Net Name : Old Net Name=NetJ1_88 New Net Name=NetJ3_88
+Change Net Name : Old Net Name=NetJ1_90 New Net Name=NetJ3_90
+Change Net Name : Old Net Name=NetJ1_91 New Net Name=NetJ3_91
+Added Member To Class: ClassName=CoverSheet Member=Component J1 640456-2
+Added Member To Class: ClassName=CoverSheet Member=Component J2 640456-2

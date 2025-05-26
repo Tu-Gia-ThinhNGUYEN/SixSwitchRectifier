@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=+15_ISO_A2 Pin=C30-1
+Removed Pin From Net: NetName=+15_ISO_A3 Pin=C31-1
+Removed Pin From Net: NetName=+15_ISO_B2 Pin=C35-1
+Removed Pin From Net: NetName=+15_ISO_A2 Pin=L5-2
+Removed Pin From Net: NetName=+15_ISO_A3 Pin=L6-2
+Removed Pin From Net: NetName=+15_ISO_B2 Pin=L8-2
+Removed Pin From Net: NetName=NetR94_1 Pin=U1-5
+Removed Pin From Net: NetName=NetR97_1 Pin=U3-5
+Change Component Designator: OldDesignator=IC14 NewDesignator=IC13
+Change Component Designator: OldDesignator=IC15 NewDesignator=IC14
+Change Component Designator: OldDesignator=IC16 NewDesignator=IC15
+Added Component: Designator=XF1(FUSM250108X1320N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "65800001009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/65800001009/littelfuse?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=7143dbe7-66cc-46d0-a668-04c7d18969fc&filename=littelfuse-fuse-block-656-datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "65800001009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-65800001009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/65800001009?qs=sU0fTKI0LumNKe7EsrMdwQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=XF2(FUSM250108X1320N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "65800001009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/65800001009/littelfuse?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=7143dbe7-66cc-46d0-a668-04c7d18969fc&filename=littelfuse-fuse-block-656-datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "65800001009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-65800001009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/65800001009?qs=sU0fTKI0LumNKe7EsrMdwQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=XF3(FUSM250108X1320N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "65800001009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/65800001009/littelfuse?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=7143dbe7-66cc-46d0-a668-04c7d18969fc&filename=littelfuse-fuse-block-656-datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "65800001009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-65800001009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/65800001009?qs=sU0fTKI0LumNKe7EsrMdwQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR94_1 Pin=XF1-2
+Added Pin To Net: NetName=NetR97_1 Pin=XF3-2
+Change Net Name : Old Net Name=NetIC15_4 New Net Name=NetIC14_4
+Change Net Name : Old Net Name=NetIC15_5 New Net Name=NetIC14_5
+Change Net Name : Old Net Name=NetIC15_8 New Net Name=NetIC14_8
+Change Net Name : Old Net Name=NetIC16_5 New Net Name=NetIC15_5
+Change Net Name : Old Net Name=NetIC16_8 New Net Name=NetIC15_8
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=L5-2
+Added Net: Name=NetC30_1
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=L6-2
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=L8-2
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=NetU1_5 Pin=XF1-1
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetU2_5 Pin=XF2-1
+Added Net: Name=NetU2_5
+Added Pin To Net: NetName=NetU3_5 Pin=U3-5
+Added Pin To Net: NetName=NetU3_5 Pin=XF3-1
+Added Net: Name=NetU3_5
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component IC7 LM358D
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component IC9 LM358D
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component IC10 LM358D
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component IC12 LM358D
+Added Member To Class: ClassName=U_MainCircuit Member=Component XF1 65800001009
+Added Member To Class: ClassName=U_MainCircuit Member=Component XF2 65800001009
+Added Member To Class: ClassName=U_MainCircuit Member=Component XF3 65800001009

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=0V_ISO_B2 Pin=Q1-7
+Removed Pin From Net: NetName=NetD4_2 Pin=Q1-8
+Removed Pin From Net: NetName=0V_ISO_B1 Pin=Q2-3
+Removed Pin From Net: NetName=NetD2_2 Pin=Q2-4
+Removed Pin From Net: NetName=0V_ISO_A3 Pin=Q2-7
+Removed Pin From Net: NetName=NetD5_2 Pin=Q2-8
+Removed Pin From Net: NetName=0V_ISO_A2 Pin=Q3-3
+Removed Pin From Net: NetName=NetD3_2 Pin=Q3-4
+Added Pin To Net: NetName=0V_ISO_B1 Pin=Q1-7
+Added Pin To Net: NetName=NetD2_2 Pin=Q1-8
+Added Pin To Net: NetName=0V_ISO_A2 Pin=Q2-3
+Added Pin To Net: NetName=NetD3_2 Pin=Q2-4
+Added Pin To Net: NetName=0V_ISO_B2 Pin=Q2-7
+Added Pin To Net: NetName=NetD4_2 Pin=Q2-8
+Added Pin To Net: NetName=0V_ISO_A3 Pin=Q3-3
+Added Pin To Net: NetName=NetD5_2 Pin=Q3-4

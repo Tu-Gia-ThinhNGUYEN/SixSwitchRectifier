@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=CoverSheet Member=J5
+Removed Member From Class: ClassName=CoverSheet Member=J8
+Change Component Designator: OldDesignator=CN_N1 NewDesignator=CN_N2
+Added Component: Designator=CN_N1(P-820W)
+Added Component: Designator=CN_P1(P-820W)
+Added Pin To Net: NetName=NetC41_2 Pin=CN_N1-2
+Change Net Name : Old Net Name=NetCN_N1_4 New Net Name=NetCN_N2_4
+Added Pin To Net: NetName=NetCN_P1_2 Pin=CN_P1-2
+Added Pin To Net: NetName=NetCN_P1_2 Pin=R64-1
+Added Pin To Net: NetName=NetCN_P1_2 Pin=U8-5
+Added Net: Name=NetCN_P1_2
+Added Member To Class: ClassName=CoverSheet Member=Component CN_N2 CN
+Added Member To Class: ClassName=CoverSheet Member=Component CN_P1 CN
+Added Member To Class: ClassName=CoverSheet Member=Component J1 640456-2
+Added Member To Class: ClassName=CoverSheet Member=Component J2 640456-2
+Added Member To Class: ClassName=U_Controller Member=Component J3 DIMM100
+Added Member To Class: ClassName=U_Controller Member=Component J4 Header 22
+Added Member To Class: ClassName=U_Controller Member=Component J6 Header 25

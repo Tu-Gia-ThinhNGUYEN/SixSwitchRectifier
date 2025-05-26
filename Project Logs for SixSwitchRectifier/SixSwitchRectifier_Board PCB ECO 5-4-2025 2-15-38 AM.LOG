@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=NetC13_1 Pin=IC5-1
+Removed Pin From Net: NetName=NetD10_2 Pin=IC6-1
+Removed Pin From Net: NetName=NetD10_1 Pin=IC6-2
+Removed Pin From Net: NetName=NetIC8_6 Pin=IC8-6
+Removed Pin From Net: NetName=ADC-B0 Pin=IC8-7
+Removed Pin From Net: NetName=NetD16_2 Pin=IC9-1
+Removed Pin From Net: NetName=NetD16_1 Pin=IC9-2
+Removed Pin From Net: NetName=NetC16_1 Pin=IC10-1
+Removed Pin From Net: NetName=GND Pin=IC10-3
+Removed Pin From Net: NetName=-15 Pin=IC10-4
+Removed Pin From Net: NetName=GND Pin=IC10-5
+Removed Pin From Net: NetName=NetC17_1 Pin=IC10-7
+Removed Pin From Net: NetName=+15 Pin=IC10-8
+Removed Pin From Net: NetName=NetD19_2 Pin=IC11-1
+Removed Pin From Net: NetName=NetD19_1 Pin=IC11-2
+Removed Pin From Net: NetName=NetD22_2 Pin=IC12-1
+Removed Pin From Net: NetName=NetD22_1 Pin=IC12-2
+Removed Pin From Net: NetName=GND Pin=IC12-3
+Removed Pin From Net: NetName=-15 Pin=IC12-4
+Removed Pin From Net: NetName=+15 Pin=IC12-8
+Removed Pin From Net: NetName=NetC18_1 Pin=IC13-1
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=IC13
+Change Component Designator: OldDesignator=IC6 NewDesignator=IC7
+Change Component Designator: OldDesignator=IC7 NewDesignator=IC6
+Change Component Designator: OldDesignator=IC9 NewDesignator=IC10
+Change Component Designator: OldDesignator=IC13 NewDesignator=IC12
+Added Component: Designator=IC9(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM358D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm358d/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm358.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM358D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LM358D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM358D?qs=X1HXWTtiZ0RJBM%2FvBfVo8g%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD10_2 Pin=IC5-1
+Added Pin To Net: NetName=NetD10_1 Pin=IC5-2
+Added Pin To Net: NetName=NetC13_1 Pin=IC7-1
+Added Pin To Net: NetName=NetC16_1 Pin=IC8-7
+Added Pin To Net: NetName=NetD16_2 Pin=IC9-1
+Added Pin To Net: NetName=NetD16_1 Pin=IC9-2
+Added Pin To Net: NetName=GND Pin=IC9-3
+Added Pin To Net: NetName=-15 Pin=IC9-4
+Added Pin To Net: NetName=GND Pin=IC9-5
+Added Pin To Net: NetName=NetIC8_6 Pin=IC9-6
+Added Pin To Net: NetName=ADC-B0 Pin=IC9-7
+Added Pin To Net: NetName=+15 Pin=IC9-8
+Added Pin To Net: NetName=NetD19_2 Pin=IC10-1
+Added Pin To Net: NetName=NetD19_1 Pin=IC10-2
+Added Pin To Net: NetName=NetD22_2 Pin=IC11-1
+Added Pin To Net: NetName=NetD22_1 Pin=IC11-2
+Added Pin To Net: NetName=NetC17_1 Pin=IC12-1
+Added Pin To Net: NetName=GND Pin=IC12-5
+Added Pin To Net: NetName=NetC18_1 Pin=IC12-7
+Change Net Name : Old Net Name=NetIC6_6 New Net Name=NetIC7_6
+Change Net Name : Old Net Name=NetIC7_6 New Net Name=NetIC6_6
+Change Net Name : Old Net Name=NetIC8_6 New Net Name=NetIC9_6
+Change Net Name : Old Net Name=NetIC9_6 New Net Name=NetIC10_6
+Added Pin To Net: NetName=NetIC7_2 Pin=IC7-2
+Added Pin To Net: NetName=NetIC7_2 Pin=R19-1
+Added Pin To Net: NetName=NetIC7_2 Pin=R22-2
+Added Net: Name=NetIC7_2
+Added Pin To Net: NetName=NetIC8_6 Pin=IC8-6
+Added Pin To Net: NetName=NetIC8_6 Pin=R52-1
+Added Pin To Net: NetName=NetIC8_6 Pin=R57-2
+Added Net: Name=NetIC8_6
+Added Pin To Net: NetName=NetIC12_2 Pin=IC12-2
+Added Pin To Net: NetName=NetIC12_2 Pin=R65-1
+Added Pin To Net: NetName=NetIC12_2 Pin=R70-2
+Added Net: Name=NetIC12_2
+Added Pin To Net: NetName=NetIC12_6 Pin=IC12-6
+Added Pin To Net: NetName=NetIC12_6 Pin=R78-1
+Added Pin To Net: NetName=NetIC12_6 Pin=R83-2
+Added Net: Name=NetIC12_6

@@ -1,0 +1,22 @@
+Added Component: Designator=HS2(C60075VE)
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component C2 0.1uF
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component C9 0.1uF
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component C11 1uF
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component C18 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C21 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C23 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C25 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C28 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C30 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C32 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C34 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C36 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_Controller Member=Component C40 C1206C106K3RACTU
+Added Member To Class: ClassName=U_MainCircuit Member=Component C43 C
+Added Member To Class: ClassName=CoverSheet Member=Component HS2 C60-075-VE
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q1 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q2 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q3 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q4 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q5 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q6 SiC MOS

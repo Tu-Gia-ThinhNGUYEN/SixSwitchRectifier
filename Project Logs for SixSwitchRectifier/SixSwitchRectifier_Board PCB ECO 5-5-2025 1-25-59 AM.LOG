@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC41_2 Pin=CN_N1-2
+Removed Pin From Net: NetName=NetCN_N2_4 Pin=CN_N2-4
+Removed Pin From Net: NetName=NetCN_P1_2 Pin=CN_P1-2
+Added Pin To Net: NetName=NetC41_2 Pin=CN_N1-1
+Added Pin To Net: NetName=NetCN_N2_4 Pin=CN_N2-1
+Added Pin To Net: NetName=NetCN_P1_2 Pin=CN_P1-1
+Change Net Name : Old Net Name=NetCN_N2_4 New Net Name=NetCN_N2_1
+Change Net Name : Old Net Name=NetCN_P1_2 New Net Name=NetCN_P1_1
+Added Pin To Net: NetName=NetCN_R1_1 Pin=CN_R1-1
+Added Pin To Net: NetName=NetCN_R1_1 Pin=XF1-1
+Added Net: Name=NetCN_R1_1
+Added Pin To Net: NetName=NetCN_S1_1 Pin=CN_S1-1
+Added Pin To Net: NetName=NetCN_S1_1 Pin=XF2-1
+Added Net: Name=NetCN_S1_1
+Added Pin To Net: NetName=NetCN_T1_1 Pin=CN_T1-1
+Added Pin To Net: NetName=NetCN_T1_1 Pin=XF3-1
+Added Net: Name=NetCN_T1_1

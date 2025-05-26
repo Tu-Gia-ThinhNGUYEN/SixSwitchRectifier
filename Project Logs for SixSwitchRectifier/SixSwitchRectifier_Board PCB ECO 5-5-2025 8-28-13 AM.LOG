@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=U_InputCurrentSensingSketch Member=C45
+Removed Member From Class: ClassName=U_PowerController Member=C45
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=C46
+Removed Member From Class: ClassName=U_PowerController Member=C46
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=C47
+Removed Member From Class: ClassName=U_PowerController Member=C47
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=C48
+Removed Member From Class: ClassName=U_PowerController Member=C48
+Removed Member From Class: ClassName=U_InputCurrentSensingSketch Member=C49
+Removed Member From Class: ClassName=U_PowerController Member=C49
+Removed Member From Class: ClassName=U_Controller Member=C50
+Removed Member From Class: ClassName=U_InputCurrentSensingSketch Member=C50
+Removed Member From Class: ClassName=U_PowerController Member=C50
+Added Pin To Net: NetName=GPIO-31 Pin=TP_NIC1-1
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component C19 C0805C473F3GECAUTO7210
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component C20 C0805C473F3GECAUTO7210
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component C21 C0805C473F3GECAUTO7210
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component C22 C0805C473F3GECAUTO7210
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component C23 C0805C473F3GECAUTO7210
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component C24 C0805C473F3GECAUTO7210
+Added Member To Class: ClassName=U_PowerController Member=Component C25 C2012X7R1H155K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C26 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C27 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C28 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C29 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C30 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C31 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C32 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C33 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C34 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C35 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C36 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C37 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C38 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C39 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C40 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C41 0.1uF
+Added Member To Class: ClassName=U_PowerController Member=Component C42 CGA4J1X7R1E335K125AC
+Added Member To Class: ClassName=U_PowerController Member=Component C43 0.1uF
+Added Member To Class: ClassName=U_Controller Member=Component C44 C0805C104K3RACTU

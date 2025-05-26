@@ -1,0 +1,30 @@
+Added Component: Designator=Q1(C247-050-2VE)
+Added Component: Designator=Q2(C247-050-2VE)
+Added Component: Designator=Q3(C247-050-2VE)
+Added Pin To Net: NetName=NetC41_1 Pin=Q1-1
+Added Pin To Net: NetName=NetL10_2 Pin=Q1-2
+Added Pin To Net: NetName=0V_ISO_A1 Pin=Q1-3
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-4
+Added Pin To Net: NetName=NetL10_2 Pin=Q1-5
+Added Pin To Net: NetName=NetC41_2 Pin=Q1-6
+Added Pin To Net: NetName=0V_ISO_B2 Pin=Q1-7
+Added Pin To Net: NetName=NetD4_2 Pin=Q1-8
+Added Pin To Net: NetName=NetC41_1 Pin=Q2-1
+Added Pin To Net: NetName=NetL11_2 Pin=Q2-2
+Added Pin To Net: NetName=0V_ISO_B1 Pin=Q2-3
+Added Pin To Net: NetName=NetD2_2 Pin=Q2-4
+Added Pin To Net: NetName=NetL11_2 Pin=Q2-5
+Added Pin To Net: NetName=NetC41_2 Pin=Q2-6
+Added Pin To Net: NetName=0V_ISO_A3 Pin=Q2-7
+Added Pin To Net: NetName=NetD5_2 Pin=Q2-8
+Added Pin To Net: NetName=NetC41_1 Pin=Q3-1
+Added Pin To Net: NetName=NetL12_2 Pin=Q3-2
+Added Pin To Net: NetName=0V_ISO_A2 Pin=Q3-3
+Added Pin To Net: NetName=NetD3_2 Pin=Q3-4
+Added Pin To Net: NetName=NetL12_2 Pin=Q3-5
+Added Pin To Net: NetName=NetC41_2 Pin=Q3-6
+Added Pin To Net: NetName=0V_ISO_B3 Pin=Q3-7
+Added Pin To Net: NetName=NetD6_2 Pin=Q3-8
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q1 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q2 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q3 SiC MOS

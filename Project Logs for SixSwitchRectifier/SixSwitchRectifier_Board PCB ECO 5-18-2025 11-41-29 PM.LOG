@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=GPIO-0 Pin=J3-23
+Added Pin To Net: NetName=GPIO-2 Pin=J3-24
+Added Pin To Net: NetName=GPIO-4 Pin=J3-25
+Added Pin To Net: NetName=GPIO-1 Pin=J3-73
+Added Pin To Net: NetName=GPIO-3 Pin=J3-74
+Added Pin To Net: NetName=GPIO-5 Pin=J3-75
+Added Pin To Net: NetName=GPIO-5 Pin=J4-17
+Added Pin To Net: NetName=GPIO-3 Pin=J4-18
+Added Pin To Net: NetName=GPIO-1 Pin=J4-19
+Added Pin To Net: NetName=GPIO-4 Pin=J6-20
+Added Pin To Net: NetName=GPIO-2 Pin=J6-21
+Added Pin To Net: NetName=GPIO-0 Pin=J6-22
+Added Member To Class: ClassName=U_Controller Member=Component IC14 LTC1446CN8#PBF
+Added Member To Class: ClassName=U_Controller Member=Component IC15 LTC1446CN8#PBF

@@ -1,0 +1,152 @@
+Removed Member From Class: ClassName=U_InputCurrentSensingSketch Member=IC1
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=IC1
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=IC2
+Removed Member From Class: ClassName=U_InputCurrentSensingSketch Member=IC9
+Removed Member From Class: ClassName=U_GateDriverSketch Member=R54
+Removed Member From Class: ClassName=U_GateDriverSketch Member=R66
+Removed Member From Class: ClassName=U_GateDriverSketch Member=R82
+Removed Member From Class: ClassName=U_InputCurrentSensingSketch Member=R82
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=R89
+Removed Member From Class: ClassName=U_GateDriverSketch Member=R90
+Removed Member From Class: ClassName=U_InputCurrentSensingSketch Member=R90
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=R90
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=R91
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=R92
+Removed Member From Class: ClassName=U_InputCurrentSensingSketch Member=R93
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=R93
+Removed Member From Class: ClassName=U_InputVoltageSensingSketch Member=R94
+Removed Member From Class: ClassName=U_OutputVoltageSensingSketch Member=R94
+Removed Member From Class: ClassName=U_OutputVoltageSensingSketch Member=Z11
+Removed Member From Class: ClassName=U_OutputVoltageSensingSketch Member=Z12
+Added Component: Designator=IC8(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM358D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm358d/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm358.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM358D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LM358D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM358D?qs=X1HXWTtiZ0RJBM%2FvBfVo8g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC12(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM358D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm358d/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm358.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM358D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LM358D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM358D?qs=X1HXWTtiZ0RJBM%2FvBfVo8g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(C247-050-2VE)
+Added Component: Designator=Q2(C247-050-2VE)
+Added Component: Designator=Q3(C247-050-2VE)
+Added Pin To Net: NetName=NetC15_1 Pin=IC8-1
+Added Pin To Net: NetName=NetIC8_2 Pin=IC8-2
+Added Pin To Net: NetName=GND Pin=IC8-3
+Added Pin To Net: NetName=-15 Pin=IC8-4
+Added Pin To Net: NetName=GND Pin=IC8-5
+Added Pin To Net: NetName=NetIC8_6 Pin=IC8-6
+Added Pin To Net: NetName=ADC-B0 Pin=IC8-7
+Added Pin To Net: NetName=+15 Pin=IC8-8
+Added Pin To Net: NetName=NetD22_2 Pin=IC12-1
+Added Pin To Net: NetName=NetD22_1 Pin=IC12-2
+Added Pin To Net: NetName=GND Pin=IC12-3
+Added Pin To Net: NetName=-15 Pin=IC12-4
+Added Pin To Net: NetName=+15 Pin=IC12-8
+Added Pin To Net: NetName=NetC41_1 Pin=Q1-1
+Added Pin To Net: NetName=NetL10_2 Pin=Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q1-5
+Add Pin To Net: Unknown Pin: Pin Q1-6
+Add Pin To Net: Unknown Pin: Pin Q1-7
+Add Pin To Net: Unknown Pin: Pin Q1-8
+Added Pin To Net: NetName=NetC41_1 Pin=Q2-1
+Added Pin To Net: NetName=NetL11_2 Pin=Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Add Pin To Net: Unknown Pin: Pin Q2-5
+Add Pin To Net: Unknown Pin: Pin Q2-6
+Add Pin To Net: Unknown Pin: Pin Q2-7
+Add Pin To Net: Unknown Pin: Pin Q2-8
+Added Pin To Net: NetName=NetC41_1 Pin=Q3-1
+Added Pin To Net: NetName=NetL12_2 Pin=Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q3-4
+Add Pin To Net: Unknown Pin: Pin Q3-5
+Add Pin To Net: Unknown Pin: Pin Q3-6
+Add Pin To Net: Unknown Pin: Pin Q3-7
+Add Pin To Net: Unknown Pin: Pin Q3-8
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component IC4 LM358D
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component IC5 LM358D
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component IC6 LM358D
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component IC7 LM358D
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component IC8 LM358D
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component IC10 LM358D
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component IC11 LM358D
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component IC12 LM358D
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q1 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q2 SiC MOS
+Added Member To Class: ClassName=U_MainCircuit Member=Component Q3 SiC MOS
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R2 1k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R3 1k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R4 1k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R5 10k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R8 1k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R9 1k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R10 10k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R11 10k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R13 1k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R14 1k
+Added Member To Class: ClassName=U_GateDriverSketch Member=Component R15 10k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R16 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R17 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R18 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R19 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R21 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R23 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R24 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R25 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R26 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R27 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R28 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R29 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R31 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R32 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R33 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R34 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R35 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R36 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R37 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R38 1k
+Added Member To Class: ClassName=U_InputCurrentSensingSketch Member=Component R39 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R53 R5W - 0,47
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R55 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R56 R5W - 0,47
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R57 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R58 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R59 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R60 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R61 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R62 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R63 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R64 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R65 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R67 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R68 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R69 R5W - 0,47
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R70 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R71 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R73 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R75 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R77 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R79 R5W - 0,47
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R80 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R81 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R83 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R84 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R85 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R86 1k
+Added Member To Class: ClassName=U_InputVoltageSensingSketch Member=Component R87 1k
+Added Member To Class: ClassName=U_OutputVoltageSensingSketch Member=Component R88 R5W - 0,47
+Added Member To Class: ClassName=U_OutputVoltageSensingSketch Member=Component Z13 3.3V
+Added Member To Class: ClassName=U_OutputVoltageSensingSketch Member=Component Z14 3.3V
