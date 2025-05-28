@@ -202,6 +202,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XVQRAUXU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SixSwitchRectifier\Design Rule Check - SixSwitchRectifier_Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
