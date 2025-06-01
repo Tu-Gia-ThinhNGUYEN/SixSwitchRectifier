@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetL10_1 Pin=R94-2
+Removed Pin From Net: NetName=NetL11_1 Pin=R96-2
+Removed Pin From Net: NetName=NetL12_1 Pin=R97-2
+Removed Member From Class: ClassName=U_MainCircuit Member=R94
+Removed Member From Class: ClassName=U_MainCircuit Member=R96
+Removed Member From Class: ClassName=U_MainCircuit Member=R97
+Added Pin To Net: NetName=NetL10_1 Pin=U1-5
+Added Pin To Net: NetName=NetL11_1 Pin=U2-5
+Added Pin To Net: NetName=NetL12_1 Pin=U3-5
+Added Member To Class: ClassName=CoverSheet Member=Component CN_P1 CN
