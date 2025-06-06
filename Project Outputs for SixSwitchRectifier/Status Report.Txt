@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [SixSwitchRectifier.PrjPcb]
+   Generated File[Pick Place for SixSwitchRectifier_Board.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At ¤U¤È 06:43:51 On 2025/6/6
