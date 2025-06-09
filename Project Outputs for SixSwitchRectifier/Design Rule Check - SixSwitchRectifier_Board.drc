@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\Designing\SixSwitchRectifier\SixSwitchRectifier_Board.PcbDoc
-Date     : 6/1/2025
-Time     : 9:05:59 PM
+PCB File : C:\Altium Designer\Files\SixSwitchRectifier\三相六開關\SixSwitchRectifier_Board.PcbDoc
+Date     : 2025/6/9
+Time     : 下午 03:00:07
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -81,4 +81,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:23
+Time Elapsed        : 00:00:09
