@@ -1,0 +1,319 @@
+Altium Designer Pick and Place Locations
+C:\Altium Designer\Files\Six_new\SixSwitchRectifier\Project Outputs for SixSwitchRectifier\Pick Place for SixSwitchRectifier_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/06/25
+Time:       14:12
+Revision:   cdb9a575b6239fa6e3fc5414787473e0380e5781
+Variant:    No variations
+Units used: mil
+
+Designator Comment                Layer       Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                                                  
+CN_P1      CN                     TopLayer    P-820W                           8194.945      4237.205      0        Terminal                                                                     
+IC15       LTC1446CN8#PBF         TopLayer    DIP794W53P254L1016H394Q8N        5220.000      16045.000     0        "Integrated Circuit"                                                         
+IC14       LTC1446CN8#PBF         TopLayer    DIP794W53P254L1016H394Q8N        5220.000      16575.000     0        "Integrated Circuit"                                                         
+C24        C0805C473F3GECAUTO7210 TopLayer    C0805                            7025.433      14134.208     0        Capacitor                                                                    
+C23        C0805C473F3GECAUTO7210 TopLayer    C0805                            7025.433      14904.988     0        Capacitor                                                                    
+C22        C0805C473F3GECAUTO7210 TopLayer    C0805                            6100.433      14134.208     0        Capacitor                                                                    
+C21        C0805C473F3GECAUTO7210 TopLayer    C0805                            6100.433      14904.988     0        Capacitor                                                                    
+C20        C0805C473F3GECAUTO7210 TopLayer    C0805                            5220.433      14134.208     0        Capacitor                                                                    
+C19        C0805C473F3GECAUTO7210 TopLayer    C0805                            5220.433      14904.988     0        Capacitor                                                                    
+XF3        65800001009            TopLayer    FUSM250108X1320N                 4210.000      4535.000      90       Hardware                                                                     
+XF2        65800001009            TopLayer    FUSM250108X1320N                 4677.500      4535.000      90       Hardware                                                                     
+XF1        65800001009            TopLayer    FUSM250108X1320N                 5145.000      4535.000      90       Hardware                                                                     
+IC9        LM358D                 TopLayer    SOIC127P600X175-8N               5255.000      13306.772     270      "Integrated Circuit"                                                         
+Q3         "SiC MOS"              TopLayer    C247-050-2VE                     8698.740      7589.252      0        "MOSFETs, N-Channel 1200 V 100A (Tc) 431W (Tc) Through Hole TO-247-4L(X)"    
+Q2         "SiC MOS"              TopLayer    C247-050-2VE                     8698.740      9589.252      0        "MOSFETs, N-Channel 1200 V 100A (Tc) 431W (Tc) Through Hole TO-247-4L(X)"    
+Q1         "SiC MOS"              TopLayer    C247-050-2VE                     8698.740      11589.252     0        "MOSFETs, N-Channel 1200 V 100A (Tc) 431W (Tc) Through Hole TO-247-4L(X)"    
+Z14        3.3V                   BottomLayer DIOM5226X230N                    8040.000      6464.645      90       "Zener Diode"                                                                
+Z13        3.3V                   BottomLayer DIOM5226X230N                    5120.000      12290.354     270      "Zener Diode"                                                                
+Z12        3.3V                   TopLayer    DIOM5226X230N                    7230.354      14760.000     0        "Zener Diode"                                                                
+Z11        3.3V                   TopLayer    DIOM5226X230N                    7215.000      13005.000     180      "Zener Diode"                                                                
+Z10        3.3V                   TopLayer    DIOM5226X230N                    7230.354      14275.000     0        "Zener Diode"                                                                
+Z9         3.3V                   TopLayer    DIOM5226X230N                    6225.000      13007.634     180      "Zener Diode"                                                                
+Z8         3.3V                   TopLayer    DIOM5226X230N                    6305.354      14760.000     0        "Zener Diode"                                                                
+Z7         3.3V                   TopLayer    DIOM5226X230N                    5235.000      13002.634     180      "Zener Diode"                                                                
+Z6         3.3V                   TopLayer    DIOM5226X230N                    6305.354      14275.000     0        "Zener Diode"                                                                
+Z5         3.3V                   BottomLayer DIOM5226X230N                    7215.000      13002.634     0        "Zener Diode"                                                                
+Z4         3.3V                   TopLayer    DIOM5226X230N                    5425.354      14760.000     0        "Zener Diode"                                                                
+Z3         3.3V                   BottomLayer DIOM5226X230N                    6225.000      13007.634     0        "Zener Diode"                                                                
+Z2         3.3V                   TopLayer    DIOM5226X230N                    5425.354      14275.000     0        "Zener Diode"                                                                
+Z1         3.3V                   BottomLayer DIOM5226X230N                    5235.000      13002.634     0        "Zener Diode"                                                                
+U8         "LA 100-TP"            TopLayer    LA_100-TP                        8430.000      5830.000      270      "Current Transducer, AC/AC, 100A"                                            
+U7         "LV 25-P"              TopLayer    LV-25-P                          4820.000      12105.000     90       "Voltage Transducer 600V"                                                    
+U6         "LV 25-P"              TopLayer    LV-25-P                          5896.690      12105.000     90       "Voltage Transducer 600V"                                                    
+U5         "LV 25-P"              TopLayer    LV-25-P                          4820.000      10300.000     90       "Voltage Transducer 600V"                                                    
+U4         "LV 25-P"              TopLayer    LV-25-P                          5896.690      10300.000     90       "Voltage Transducer 600V"                                                    
+U3         "LA 100-TP"            TopLayer    LA_100-TP                        7136.732      5830.000      270      "Current Transducer, AC/AC, 100A"                                            
+U2         "LA 100-TP"            TopLayer    LA_100-TP                        5843.464      5830.000      270      "Current Transducer, AC/AC, 100A"                                            
+U1         "LA 100-TP"            TopLayer    LA_100-TP                        4570.000      5830.000      270      "Current Transducer, AC/AC, 100A"                                            
+TP_VP1     ""                     TopLayer    5000                             8198.362      4901.890      90       "Test Point Red, Multipurpose, TH"                                           
+TP_VN1     ""                     TopLayer    5001                             8809.992      4901.890      90       "Test Point Black, Multipurpose, TH"                                         
+TP_VLC1    ""                     TopLayer    5002                             6975.102      4901.890      90       "Test Point White, Multipurpose, TH"                                         
+TP_VLB1    ""                     TopLayer    5001                             6363.472      4901.890      90       "Test Point Black, Multipurpose, TH"                                         
+TP_VLA1    ""                     TopLayer    5000                             5751.842      4901.890      90       "Test Point Red, Multipurpose, TH"                                           
+TP_Vdc1    ""                     TopLayer    5000                             4155.000      12975.000     90       "Test Point Red, Multipurpose, TH"                                           
+TP_VC1     ""                     TopLayer    5002                             7309.646      12780.000     90       "Test Point White, Multipurpose, TH"                                         
+TP_VB1     ""                     TopLayer    5001                             6320.000      12800.000     90       "Test Point Black, Multipurpose, TH"                                         
+TP_VA1     ""                     TopLayer    5000                             5330.000      12800.000     90       "Test Point Red, Multipurpose, TH"                                           
+TP_S6      ""                     TopLayer    5001                             8930.000      8021.928      90       "Test Point Black, Multipurpose, TH"                                         
+TP_G6      ""                     TopLayer    5003                             8930.000      8221.928      90       "Test Point Orrange, Multipurpose, TH"                                       
+TP_S5      ""                     TopLayer    5001                             8930.000      7156.574      90       "Test Point Black, Multipurpose, TH"                                         
+TP_G5      ""                     TopLayer    5003                             8930.000      7356.574      90       "Test Point Orrange, Multipurpose, TH"                                       
+TP_S4      ""                     TopLayer    5001                             8930.000      10021.928     90       "Test Point Black, Multipurpose, TH"                                         
+TP_G4      ""                     TopLayer    5003                             8930.000      10221.928     90       "Test Point Orrange, Multipurpose, TH"                                       
+TP_S3      ""                     TopLayer    5001                             8930.000      9156.574      90       "Test Point Black, Multipurpose, TH"                                         
+TP_G3      ""                     TopLayer    5003                             8930.000      9356.574      90       "Test Point Orrange, Multipurpose, TH"                                       
+TP_S2      ""                     TopLayer    5001                             8930.000      12021.928     90       "Test Point Black, Multipurpose, TH"                                         
+TP_G2      ""                     TopLayer    5003                             8930.000      12221.928     90       "Test Point Orrange, Multipurpose, TH"                                       
+TP_S1      ""                     TopLayer    5001                             8930.000      11156.574     90       "Test Point Black, Multipurpose, TH"                                         
+TP_G1      ""                     TopLayer    5003                             8930.000      11356.574     90       "Test Point Orrange, Multipurpose, TH"                                       
+TP_PWM6    ""                     TopLayer    5004                             4170.000      14230.000     90       "Test Point Yellow, Multipurpose, TH"                                        
+TP_PWM5    ""                     TopLayer    5004                             4170.000      14430.000     90       "Test Point Yellow, Multipurpose, TH"                                        
+TP_PWM4    ""                     TopLayer    5004                             4170.000      14630.000     90       "Test Point Yellow, Multipurpose, TH"                                        
+TP_PWM3    ""                     TopLayer    5004                             4170.000      14830.000     90       "Test Point Yellow, Multipurpose, TH"                                        
+TP_PWM2    ""                     TopLayer    5004                             4170.000      15030.000     90       "Test Point Yellow, Multipurpose, TH"                                        
+TP_PWM1    ""                     TopLayer    5004                             4170.000      15230.000     90       "Test Point Yellow, Multipurpose, TH"                                        
+TP_NVC1    ""                     TopLayer    5002                             7194.760      13945.000     90       "Test Point White, Multipurpose, TH"                                         
+TP_NVB1    ""                     TopLayer    5001                             7194.760      15080.000     90       "Test Point Black, Multipurpose, TH"                                         
+TP_NVA1    ""                     TopLayer    5000                             6269.760      13945.000     90       "Test Point Red, Multipurpose, TH"                                           
+TP_NP1     ""                     TopLayer    5003                             7586.732      4901.890      90       "Test Point Orrange, Multipurpose, TH"                                       
+TP_NIC1    ""                     TopLayer    5002                             6269.760      15080.000     90       "Test Point White, Multipurpose, TH"                                         
+TP_NIB1    ""                     TopLayer    5001                             5389.760      13945.000     90       "Test Point Black, Multipurpose, TH"                                         
+TP_NIA1    ""                     TopLayer    5000                             5389.760      15080.002     90       "Test Point Red, Multipurpose, TH"                                           
+TP_Idc1    ""                     TopLayer    5001                             4155.000      13125.000     90       "Test Point Black, Multipurpose, TH"                                         
+TP_IC1     ""                     TopLayer    5002                             7130.354      12780.000     90       "Test Point White, Multipurpose, TH"                                         
+TP_IB1     ""                     TopLayer    5001                             6140.354      12800.000     90       "Test Point Black, Multipurpose, TH"                                         
+TP_IA1     ""                     TopLayer    5000                             5150.354      12800.000     90       "Test Point Red, Multipurpose, TH"                                           
+TP_DA1     ""                     TopLayer    5003                             4170.365      16080.000     0        "Test Point Orrange, Multipurpose, TH"                                       
+TP_DA2     ""                     TopLayer    5003                             4170.365      16295.000     0        "Test Point Orrange, Multipurpose, TH"                                       
+TP_DA3     ""                     TopLayer    5003                             4170.365      16510.000     0        "Test Point Orrange, Multipurpose, TH"                                       
+TP_DA4     ""                     TopLayer    5003                             4170.365      16725.000     0        "Test Point Orrange, Multipurpose, TH"                                       
+TP4        ""                     TopLayer    5001                             4075.000      11795.000     270      "Test Point Black, Multipurpose, TH"                                         
+TP3        ""                     TopLayer    5001                             4075.000      12025.000     270      "Test Point Black, Multipurpose, TH"                                         
+TP2        ""                     TopLayer    5001                             4075.000      12255.000     270      "Test Point Black, Multipurpose, TH"                                         
+TP1        ""                     TopLayer    5001                             4075.000      12465.000     270      "Test Point Black, Multipurpose, TH"                                         
+R118       10                     BottomLayer RESC2012X50N                     8080.000      8470.000      0        Resistor                                                                     
+R117       10                     BottomLayer RESC2012X50N                     8079.370      8375.000      0        Resistor                                                                     
+R114       10                     BottomLayer RESC2012X50N                     8073.740      8065.000      0        Resistor                                                                     
+R111       10                     BottomLayer RESC2012X50N                     8074.370      7965.000      0        Resistor                                                                     
+R110       10                     BottomLayer RESC2012X50N                     8075.000      10505.000     0        Resistor                                                                     
+R109       10                     BottomLayer RESC2012X50N                     8074.370      10410.000     0        Resistor                                                                     
+R106       10                     BottomLayer RESC2012X50N                     8068.740      10100.000     0        Resistor                                                                     
+R103       10                     BottomLayer RESC2012X50N                     8069.370      10000.000     0        Resistor                                                                     
+R102       10                     BottomLayer RESC2012X50N                     8075.000      12540.000     0        Resistor                                                                     
+R101       10                     BottomLayer RESC2012X50N                     8074.370      12445.000     0        Resistor                                                                     
+R98        10                     BottomLayer RESC2012X50N                     8068.740      12135.000     0        Resistor                                                                     
+R95        10                     BottomLayer RESC2012X50N                     8069.370      12035.000     0        Resistor                                                                     
+R93        1k                     TopLayer    SM-1206                          7592.598      16745.946     90       "Resistor 1/4W"                                                              
+R92        1k                     TopLayer    SM-1206                          6435.000      15505.000     270      "Resistor 1/4W"                                                              
+R91        1k                     BottomLayer SM-1206                          7865.000      6445.000      90       "Resistor 1/4W"                                                              
+R90        1k                     BottomLayer SM-1206                          5270.000      12310.000     270      "Resistor 1/4W"                                                              
+R89        "R5W - 0,47"           TopLayer    R5WD                             5120.002      11310.000     90       "Resistor 5W"                                                                
+R88        "R5W - 0,47"           TopLayer    R5WD                             4520.002      11310.000     90       "Resistor 5W"                                                                
+R87        1k                     TopLayer    SM-1206                          7040.000      13285.000     90       "Resistor 1/4W"                                                              
+R86        1k                     TopLayer    SM-1206                          7259.760      14145.000     180      "Resistor 1/4W"                                                              
+R85        1k                     TopLayer    SM-1206                          7580.000      13040.000     90       "Resistor 1/4W"                                                              
+R84        1k                     TopLayer    SM-1206                          7580.000      13355.000     90       "Resistor 1/4W"                                                              
+R83        1k                     TopLayer    SM-1206                          7490.000      14145.000     180      "Resistor 1/4W"                                                              
+R82        "R5W - 0,47"           TopLayer    R5WD                             6195.000      11310.000     90       "Resistor 5W"                                                                
+R81        1k                     TopLayer    SM-1206                          7404.004      13355.000     270      "Resistor 1/4W"                                                              
+R80        1k                     TopLayer    SM-1206                          7200.000      13601.933     180      "Resistor 1/4W"                                                              
+R79        "R5W - 0,47"           TopLayer    R5WD                             5600.000      11310.000     90       "Resistor 5W"                                                                
+R78        1k                     TopLayer    SM-1206                          6986.028      14400.000     90       "Resistor 1/4W"                                                              
+R77        1k                     TopLayer    SM-1206                          7404.004      13040.000     270      "Resistor 1/4W"                                                              
+R76        1k                     TopLayer    SM-1206                          6870.000      13285.000     270      "Resistor 1/4W"                                                              
+R75        1k                     TopLayer    SM-1206                          6940.000      13601.933     180      "Resistor 1/4W"                                                              
+R74        1k                     TopLayer    SM-1206                          6050.000      13290.000     90       "Resistor 1/4W"                                                              
+R73        1k                     TopLayer    SM-1206                          7259.760      14895.000     180      "Resistor 1/4W"                                                              
+R72        1k                     TopLayer    SM-1206                          6590.000      13045.000     90       "Resistor 1/4W"                                                              
+R71        1k                     TopLayer    SM-1206                          6590.000      13360.000     90       "Resistor 1/4W"                                                              
+R70        1k                     TopLayer    SM-1206                          7490.000      14895.000     180      "Resistor 1/4W"                                                              
+R69        "R5W - 0,47"           TopLayer    R5WD                             5120.000      9500.000      90       "Resistor 5W"                                                                
+R68        1k                     TopLayer    SM-1206                          6414.004      13360.000     270      "Resistor 1/4W"                                                              
+R67        1k                     TopLayer    SM-1206                          6210.000      13606.933     180      "Resistor 1/4W"                                                              
+R66        "R5W - 0,47"           TopLayer    R5WD                             4520.000      9500.000      90       "Resistor 5W"                                                                
+R65        1k                     TopLayer    SM-1206                          6985.028      14710.000     270      "Resistor 1/4W"                                                              
+R64        1k                     TopLayer    SM-1206                          6414.004      13045.000     270      "Resistor 1/4W"                                                              
+R63        1k                     TopLayer    SM-1206                          5880.000      13290.000     270      "Resistor 1/4W"                                                              
+R62        1k                     TopLayer    SM-1206                          5950.000      13606.933     180      "Resistor 1/4W"                                                              
+R61        1k                     TopLayer    SM-1206                          5060.000      13285.000     270      "Resistor 1/4W"                                                              
+R60        1k                     TopLayer    SM-1206                          6334.760      14145.000     180      "Resistor 1/4W"                                                              
+R59        1k                     TopLayer    SM-1206                          5600.000      13040.000     270      "Resistor 1/4W"                                                              
+R58        1k                     TopLayer    SM-1206                          5600.000      13355.000     270      "Resistor 1/4W"                                                              
+R57        1k                     TopLayer    SM-1206                          6565.000      14145.000     180      "Resistor 1/4W"                                                              
+R56        "R5W - 0,47"           TopLayer    R5WD                             6195.000      9500.000      90       "Resistor 5W"                                                                
+R55        1k                     TopLayer    SM-1206                          5424.004      13355.000     270      "Resistor 1/4W"                                                              
+R54        1k                     TopLayer    SM-1206                          5220.000      13601.933     180      "Resistor 1/4W"                                                              
+R53        "R5W - 0,47"           TopLayer    R5WD                             5595.000      9500.000      90       "Resistor 5W"                                                                
+R52        1k                     TopLayer    SM-1206                          6061.028      14400.000     90       "Resistor 1/4W"                                                              
+R51        1k                     TopLayer    SM-1206                          5424.004      13040.000     270      "Resistor 1/4W"                                                              
+R50        1k                     TopLayer    SM-1206                          4890.000      13285.000     270      "Resistor 1/4W"                                                              
+R49        1k                     TopLayer    SM-1206                          4960.000      13601.933     180      "Resistor 1/4W"                                                              
+R48        1k                     BottomLayer SM-1206                          7041.000      13285.000     270      "Resistor 1/4W"                                                              
+R47        1k                     TopLayer    SM-1206                          6334.760      14895.000     180      "Resistor 1/4W"                                                              
+R46        1k                     BottomLayer SM-1206                          7581.000      13040.000     270      "Resistor 1/4W"                                                              
+R45        1k                     BottomLayer SM-1206                          7581.000      13355.000     270      "Resistor 1/4W"                                                              
+R44        1k                     TopLayer    SM-1206                          6565.000      14895.000     180      "Resistor 1/4W"                                                              
+R43        1k                     BottomLayer SM-1206                          7406.000      13355.000     270      "Resistor 1/4W"                                                              
+R42        1k                     BottomLayer SM-1206                          7200.000      13600.000     0        "Resistor 1/4W"                                                              
+R41        1k                     TopLayer    SM-1206                          6060.028      14710.000     270      "Resistor 1/4W"                                                              
+R40        1k                     BottomLayer SM-1206                          7406.000      13040.000     270      "Resistor 1/4W"                                                              
+R39        1k                     BottomLayer SM-1206                          6871.000      13285.000     270      "Resistor 1/4W"                                                              
+R38        1k                     BottomLayer SM-1206                          6940.000      13600.000     0        "Resistor 1/4W"                                                              
+R37        1k                     BottomLayer SM-1206                          6051.000      13290.000     270      "Resistor 1/4W"                                                              
+R36        1k                     TopLayer    SM-1206                          5454.760      14145.000     180      "Resistor 1/4W"                                                              
+R35        1k                     BottomLayer SM-1206                          6591.000      13045.000     270      "Resistor 1/4W"                                                              
+R34        1k                     BottomLayer SM-1206                          6589.000      13360.000     90       "Resistor 1/4W"                                                              
+R33        1k                     TopLayer    SM-1206                          5685.000      14145.000     180      "Resistor 1/4W"                                                              
+R32        1k                     BottomLayer SM-1206                          6416.000      13360.000     270      "Resistor 1/4W"                                                              
+R31        1k                     BottomLayer SM-1206                          6210.000      13605.000     0        "Resistor 1/4W"                                                              
+R30        1k                     TopLayer    SM-1206                          5181.028      14400.000     90       "Resistor 1/4W"                                                              
+R29        1k                     BottomLayer SM-1206                          6416.000      13045.000     270      "Resistor 1/4W"                                                              
+R28        1k                     BottomLayer SM-1206                          5881.000      13290.000     270      "Resistor 1/4W"                                                              
+R27        1k                     BottomLayer SM-1206                          5950.000      13605.000     0        "Resistor 1/4W"                                                              
+R26        1k                     BottomLayer SM-1206                          5061.000      13285.000     270      "Resistor 1/4W"                                                              
+R25        1k                     TopLayer    SM-1206                          5454.760      14895.000     180      "Resistor 1/4W"                                                              
+R24        1k                     BottomLayer SM-1206                          5601.000      13040.000     270      "Resistor 1/4W"                                                              
+R23        1k                     BottomLayer SM-1206                          5601.000      13355.000     270      "Resistor 1/4W"                                                              
+R22        1k                     TopLayer    SM-1206                          5685.000      14895.000     180      "Resistor 1/4W"                                                              
+R21        1k                     BottomLayer SM-1206                          5426.000      13355.000     270      "Resistor 1/4W"                                                              
+R20        1k                     BottomLayer SM-1206                          5220.000      13600.000     0        "Resistor 1/4W"                                                              
+R19        1k                     TopLayer    SM-1206                          5180.028      14710.000     270      "Resistor 1/4W"                                                              
+R18        1k                     BottomLayer SM-1206                          5426.000      13040.000     270      "Resistor 1/4W"                                                              
+R17        1k                     BottomLayer SM-1206                          4891.000      13285.000     270      "Resistor 1/4W"                                                              
+R16        1k                     BottomLayer SM-1206                          4960.000      13600.000     0        "Resistor 1/4W"                                                              
+R15        10k                    BottomLayer RESC2012X50N                     8080.000      8565.000      180      Resistor                                                                     
+R14        1k                     BottomLayer SM-1206                          7250.000      8390.000      270      "Resistor 1/4W"                                                              
+R13        1k                     BottomLayer SM-1206                          7080.000      8185.000      180      "Resistor 1/4W"                                                              
+R12        1k                     BottomLayer SM-1206                          7080.000      8075.000      180      "Resistor 1/4W"                                                              
+R11        10k                    BottomLayer RESC2012X50N                     8074.370      8170.000      180      Resistor                                                                     
+R10        10k                    BottomLayer RESC2012X50N                     8075.000      10600.000     180      Resistor                                                                     
+R9         1k                     BottomLayer SM-1206                          7245.000      10425.000     270      "Resistor 1/4W"                                                              
+R8         1k                     BottomLayer SM-1206                          7075.000      10220.000     180      "Resistor 1/4W"                                                              
+R7         1k                     BottomLayer SM-1206                          7075.000      10110.000     180      "Resistor 1/4W"                                                              
+R6         10k                    BottomLayer RESC2012X50N                     8069.370      10205.000     180      Resistor                                                                     
+R5         10k                    BottomLayer RESC2012X50N                     8075.000      12635.000     180      Resistor                                                                     
+R4         1k                     BottomLayer SM-1206                          7245.000      12460.000     270      "Resistor 1/4W"                                                              
+R3         1k                     BottomLayer SM-1206                          7075.000      12255.000     180      "Resistor 1/4W"                                                              
+R2         1k                     BottomLayer SM-1206                          7075.000      12145.000     180      "Resistor 1/4W"                                                              
+R1         10k                    BottomLayer RESC2012X50N                     8069.370      12240.000     180      Resistor                                                                     
+PS9        MDW1047                TopLayer    MDEU0205D12HI                    8485.000      16095.000     180      "Power Supply"                                                               
+PS8        MDW1047                TopLayer    MDEU0205D12HI                    8485.000      15520.000     180      "Power Supply"                                                               
+PS7        MDW1047                TopLayer    MDEU0205D12HI                    8485.000      14945.000     180      "Power Supply"                                                               
+PS6        MDW1047                TopLayer    MDEU0205D12HI                    8485.000      14370.000     180      "Power Supply"                                                               
+PS5        MDW1047                TopLayer    MDEU0205D12HI                    8485.000      13795.000     180      "Power Supply"                                                               
+PS4        MDW1047                TopLayer    MDEU0205D12HI                    8485.000      13220.000     180      "Power Supply"                                                               
+PS3        MDW1042                TopLayer    MDEU0205D12HI                    7150.000      16175.000     180      "Power Supply"                                                               
+PS2        MDW1041                TopLayer    MDEU0205D12HI                    7150.000      15525.000     180      "Power Supply"                                                               
+PS1        MDW1047                TopLayer    MDEU0205D12HI                    8480.000      16740.000     180      "Power Supply"                                                               
+LED2       150080VS75000          TopLayer    LEDC2012X80N                     7462.598      16680.946     0        LED                                                                          
+LED1       "Power LED"            TopLayer    LEDC2012X80N                     6435.000      15690.000     270      LED                                                                          
+L12        Inductor               TopLayer    CS467125X2                       7358.230      7605.000      0        "Inductor Powder core CS467125 x2 cores, phi 1.6mm, 1 layer, 74 turns, 3mH." 
+L11        Inductor               TopLayer    CS467125X2                       7358.230      9640.000      0        "Inductor Powder core CS467125 x2 cores, phi 1.6mm, 1 layer, 74 turns, 3mH." 
+L10        Inductor               TopLayer    CS467125X2                       7358.230      11675.000     0        "Inductor Powder core CS467125 x2 cores, phi 1.6mm, 1 layer, 74 turns, 3mH." 
+L9         MPZ2012S300A           TopLayer    BEADC2012X105N                   7925.000      15928.465     90       "Ferrite Bead"                                                               
+L8         MPZ2012S300A           TopLayer    BEADC2012X105N                   7925.000      15353.465     90       "Ferrite Bead"                                                               
+L7         MPZ2012S300A           TopLayer    BEADC2012X105N                   7925.000      14778.465     90       "Ferrite Bead"                                                               
+L6         MPZ2012S300A           TopLayer    BEADC2012X105N                   7925.000      14208.465     90       "Ferrite Bead"                                                               
+L5         MPZ2012S300A           TopLayer    BEADC2012X105N                   7925.000      13628.465     90       "Ferrite Bead"                                                               
+L4         MPZ2012S300A           TopLayer    BEADC2012X105N                   7925.000      13053.465     90       "Ferrite Bead"                                                               
+L3         MPZ2012S300A           TopLayer    BEADC2012X105N                   6475.000      16180.000     90       "Ferrite Bead"                                                               
+L2         MPZ2012S300A           TopLayer    BEADC2012X105N                   6470.000      15340.000     180      "Ferrite Bead"                                                               
+L1         MPZ2012S300A           TopLayer    BEADC2012X105N                   7925.000      16573.465     90       "Ferrite Bead"                                                               
+JDC1       "Jac DC"               TopLayer    DC-IN                            8605.000      17435.000     180      "Jac DC input"                                                               
+J8         "Connector 7x2"        TopLayer    JP7X2                            4156.500      17274.750     270      "Connector 7x2"                                                              
+J7         "JP8 PIN"              TopLayer    JP8                              4375.000      13680.000     270      "JP8 PIN"                                                                    
+J6         "Header 25"            TopLayer    HDR1X25                          4895.000      16225.000     270      "Header, 25-Pin"                                                             
+J5         "JP8 PIN"              TopLayer    JP8                              4900.000      14450.000     270      "JP8 PIN"                                                                    
+J4         "Header 22"            TopLayer    HDR1X22                          4370.000      15290.000     270      "Header, 22-Pin"                                                             
+J3         DIMM100                TopLayer    DIMM100                          4634.500      15170.000     270      "DM - Series DIMM Sockets vertical type 100-pin"                             
+J2         640456-2               TopLayer    SHDR2W66P0X254_1X2_508X572X1041P 6815.000      17465.000     270      Connector                                                                    
+J1         640456-2               TopLayer    SHDR2W66P0X254_1X2_508X572X1041P 6175.000      17465.000     270      Connector                                                                    
+IC13       TPS79533DCQ            TopLayer    SOT127P706X180-6N                7477.598      17175.946     90       "Integrated Circuit"                                                         
+IC12       LM358D                 TopLayer    SOIC127P600X175-8N               7482.564      14495.000     270      "Integrated Circuit"                                                         
+IC11       LM358D                 TopLayer    SOIC127P600X175-8N               7235.000      13305.000     270      "Integrated Circuit"                                                         
+IC10       LM358D                 TopLayer    SOIC127P600X175-8N               6245.000      13310.000     270      "Integrated Circuit"                                                         
+IC8        LM358D                 TopLayer    SOIC127P600X175-8N               6557.564      14495.000     270      "Integrated Circuit"                                                         
+IC6        LM358D                 BottomLayer SOIC127P600X175-8N               7235.000      13306.772     270      "Integrated Circuit"                                                         
+IC7        LM358D                 TopLayer    SOIC127P600X175-8N               5677.564      14495.000     270      "Integrated Circuit"                                                         
+IC5        LM358D                 BottomLayer SOIC127P600X175-8N               6245.000      13310.000     270      "Integrated Circuit"                                                         
+IC4        LM358D                 BottomLayer SOIC127P600X175-8N               5255.000      13305.000     270      "Integrated Circuit"                                                         
+IC3        UCC21520ADW            BottomLayer SOIC127P1030X265-16N             7585.000      8250.000      0        "Integrated Circuit"                                                         
+IC2        UCC21520ADW            BottomLayer SOIC127P1030X265-16N             7580.000      10285.000     0        "Integrated Circuit"                                                         
+IC1        UCC21520ADW            BottomLayer SOIC127P1030X265-16N             7580.000      12320.000     0        "Integrated Circuit"                                                         
+D24        MBRM130LT1G            TopLayer    MBRM130LT1G                      7298.012      14395.000     0        Diode                                                                        
+D23        MBRM130LT1G            TopLayer    MBRM130LT1G                      7669.902      13612.402     0        Diode                                                                        
+D22        MBRM130LT1G            TopLayer    MBRM130LT1G                      7459.902      13612.402     0        Diode                                                                        
+D21        MBRM130LT1G            TopLayer    MBRM130LT1G                      7298.012      14590.000     0        Diode                                                                        
+D20        MBRM130LT1G            TopLayer    MBRM130LT1G                      6679.902      13617.402     0        Diode                                                                        
+D19        MBRM130LT1G            TopLayer    MBRM130LT1G                      6469.902      13617.402     0        Diode                                                                        
+D18        MBRM130LT1G            TopLayer    MBRM130LT1G                      6373.012      14395.000     0        Diode                                                                        
+D17        MBRM130LT1G            TopLayer    MBRM130LT1G                      5689.902      13612.402     0        Diode                                                                        
+D16        MBRM130LT1G            TopLayer    MBRM130LT1G                      5479.902      13612.402     0        Diode                                                                        
+D15        MBRM130LT1G            TopLayer    MBRM130LT1G                      6373.012      14590.000     0        Diode                                                                        
+D14        MBRM130LT1G            BottomLayer MBRM130LT1G                      7604.882      13615.000     180      Diode                                                                        
+D13        MBRM130LT1G            BottomLayer MBRM130LT1G                      7396.260      13615.000     180      Diode                                                                        
+D12        MBRM130LT1G            TopLayer    MBRM130LT1G                      5493.012      14395.000     0        Diode                                                                        
+D11        MBRM130LT1G            BottomLayer MBRM130LT1G                      6614.882      13620.000     180      Diode                                                                        
+D10        MBRM130LT1G            BottomLayer MBRM130LT1G                      6406.260      13620.000     180      Diode                                                                        
+D9         MBRM130LT1G            TopLayer    MBRM130LT1G                      5493.012      14590.000     0        Diode                                                                        
+D8         MBRM130LT1G            BottomLayer MBRM130LT1G                      5624.882      13615.000     180      Diode                                                                        
+D7         MBRM130LT1G            BottomLayer MBRM130LT1G                      5414.882      13612.402     180      Diode                                                                        
+D6         MBRM130LT1G            BottomLayer MBRM130LT1G                      8235.000      8421.280      90       Diode                                                                        
+D5         MBRM130LT1G            BottomLayer MBRM130LT1G                      8225.000      8011.280      90       Diode                                                                        
+D4         MBRM130LT1G            BottomLayer MBRM130LT1G                      8230.000      10456.280     90       Diode                                                                        
+D3         MBRM130LT1G            BottomLayer MBRM130LT1G                      8220.000      10046.280     90       Diode                                                                        
+D2         MBRM130LT1G            BottomLayer MBRM130LT1G                      8230.000      12491.280     90       Diode                                                                        
+D1         MBRM130LT1G            BottomLayer MBRM130LT1G                      8220.000      12081.280     90       Diode                                                                        
+CN_T1      CN                     TopLayer    P-820W                           6971.685      4237.205      0        Terminal                                                                     
+CN_S1      CN                     TopLayer    P-820W                           6360.055      4237.205      0        Terminal                                                                     
+CN_R1      CN                     TopLayer    P-820W                           5748.425      4237.205      0        Terminal                                                                     
+CN_N2      CN                     TopLayer    P-820W                           7583.315      4237.205      0        Terminal                                                                     
+CN_N1      CN                     TopLayer    P-820W                           8806.575      4237.205      0        Terminal                                                                     
+C50        C                      TopLayer    CAPACITOR                        4585.000      7217.000      270      ""                                                                           
+C49        C                      TopLayer    CAPACITOR                        5815.000      7217.000      270      ""                                                                           
+C48        C                      TopLayer    CAPACITOR                        4585.000      8462.000      270      ""                                                                           
+C47        C                      TopLayer    CAPACITOR                        5815.000      8462.000      270      ""                                                                           
+C46        C1206C106K3RACTU       TopLayer    C1206                            7427.598      16880.945     270      Capacitor                                                                    
+C45        0805B475K250CT         TopLayer    CAPC2012X145N                    7292.598      16713.623     270      Capacitor                                                                    
+C44        C0805C104K3RACTU       TopLayer    C0805                            7562.165      16940.946     180      Capacitor                                                                    
+C43        0.1uF                  TopLayer    C0805                            7925.000      16259.567     90       Capacitor                                                                    
+C42        CGA4J1X7R1E335K125AC   TopLayer    CAPC2012X145N                    7795.000      15927.677     90       Capacitor                                                                    
+C41        0.1uF                  TopLayer    C0805                            7925.000      15684.567     90       Capacitor                                                                    
+C40        0.1uF                  TopLayer    C0805                            7925.000      15109.567     90       Capacitor                                                                    
+C39        CGA4J1X7R1E335K125AC   TopLayer    CAPC2012X145N                    7795.000      15352.677     90       Capacitor                                                                    
+C38        CGA4J1X7R1E335K125AC   TopLayer    CAPC2012X145N                    7795.000      14777.677     90       Capacitor                                                                    
+C37        0.1uF                  TopLayer    C0805                            7925.000      14534.567     90       Capacitor                                                                    
+C36        0.1uF                  TopLayer    C0805                            7925.000      13959.567     90       Capacitor                                                                    
+C35        0.1uF                  TopLayer    C0805                            7925.000      13384.567     90       Capacitor                                                                    
+C34        CGA4J1X7R1E335K125AC   TopLayer    CAPC2012X145N                    7795.000      14207.677     90       Capacitor                                                                    
+C33        CGA4J1X7R1E335K125AC   TopLayer    CAPC2012X145N                    7795.000      13627.677     90       Capacitor                                                                    
+C32        CGA4J1X7R1E335K125AC   TopLayer    CAPC2012X145N                    7795.000      13052.677     90       Capacitor                                                                    
+C31        0.1uF                  TopLayer    C0805                            6510.000      16305.000     0        Capacitor                                                                    
+C30        CGA4J1X7R1E335K125AC   TopLayer    CAPC2012X145N                    6505.000      16045.000     0        Capacitor                                                                    
+C29        0.1uF                  TopLayer    C0805                            6575.000      15555.000     0        Capacitor                                                                    
+C28        CGA4J1X7R1E335K125AC   TopLayer    CAPC2012X145N                    6600.000      15370.000     90       Capacitor                                                                    
+C27        CGA4J1X7R1E335K125AC   TopLayer    CAPC2012X145N                    7795.000      16572.677     90       Capacitor                                                                    
+C26        0.1uF                  TopLayer    C0805                            7925.000      16904.567     90       Capacitor                                                                    
+C25        C2012X7R1H155K125AC    TopLayer    CAPC2012X145N                    8290.000      17367.677     90       Capacitor                                                                    
+C18        0.1uF                  TopLayer    C0805                            7510.595      14290.000     180      Capacitor                                                                    
+C17        0.1uF                  TopLayer    C0805                            7510.595      14765.000     180      Capacitor                                                                    
+C16        0.1uF                  TopLayer    C0805                            6585.595      14290.000     180      Capacitor                                                                    
+C15        0.1uF                  TopLayer    C0805                            6585.595      14765.000     180      Capacitor                                                                    
+C14        0.1uF                  TopLayer    C0805                            5705.595      14290.000     180      Capacitor                                                                    
+C13        0.1uF                  TopLayer    C0805                            5705.595      14765.000     180      Capacitor                                                                    
+C12        0.1uF                  BottomLayer C0805                            7919.567      8565.000      0        Capacitor                                                                    
+C11        1uF                    BottomLayer CAPC2012X145N                    7250.000      8207.677      270      Capacitor                                                                    
+C10        0.1uF                  BottomLayer C0805                            7050.433      8455.000      180      Capacitor                                                                    
+C9         0.1uF                  BottomLayer C0805                            7919.999      8170.000      0        Capacitor                                                                    
+C8         0.1uF                  BottomLayer C0805                            7914.567      10600.000     0        Capacitor                                                                    
+C7         1uF                    BottomLayer CAPC2012X145N                    7245.000      10242.677     270      Capacitor                                                                    
+C6         0.1uF                  BottomLayer C0805                            7045.433      10490.000     180      Capacitor                                                                    
+C5         0.1uF                  BottomLayer C0805                            7914.999      10205.000     0        Capacitor                                                                    
+C4         0.1uF                  BottomLayer C0805                            7914.567      12635.000     0        Capacitor                                                                    
+C3         1uF                    BottomLayer CAPC2012X145N                    7245.000      12277.677     270      Capacitor                                                                    
+C2         0.1uF                  BottomLayer C0805                            7045.433      12525.000     180      Capacitor                                                                    
+C1         0.1uF                  BottomLayer C0805                            7914.999      12240.000     0        Capacitor                                                                    

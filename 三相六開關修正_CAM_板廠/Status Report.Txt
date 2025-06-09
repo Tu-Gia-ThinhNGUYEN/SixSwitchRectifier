@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [SixSwitchRectifier.PrjPcb]
+   Generated File[Fabrication Testpoint Report for SixSwitchRectifier_Board.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At ¤U¤È 02:13:04 On 2025/6/9
